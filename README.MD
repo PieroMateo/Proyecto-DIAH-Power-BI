@@ -5,7 +5,7 @@ Este dashboard analítico fue desarrollado para resolver un escenario de intelig
 
 Tecnologías y Extracción de Datos
 Herramienta: Power BI Desktop, Power Query
-
+![Vista del Dashboard](imagen de power bi.jpeg)
 Conclusiones:
 El panel interactivo permite extraer los siguientes *insights* operativos:
 1. Dominio de Mercado: Mediante un Treemap, se evidencia visualmente que VanArsdel mantiene la mayor cuota de ingresos comparado con sus rivales directos (Natura, Aliqui, Pirum y Currus).
