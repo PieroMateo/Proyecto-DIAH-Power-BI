@@ -1,6 +1,6 @@
 Proyecto DIAH (Dashboard in an Hour) - Análisis de Mercado VanArsdel
 
-Contexto y Objetivo del Proyecto
+Contexto y Objetivo del Proyecto:
 Este dashboard analítico fue desarrollado para resolver un escenario de inteligencia de negocios para la oficina del Director de Marketing (CMO)[cite: 1]. El objetivo principal es evaluar el rendimiento de ventas de **VanArsdel**, un fabricante de dispositivos electrónicos, comparando su desempeño interno frente a la competencia en tres grandes mercados durante el año 2017[cite: 1]. 
 
 Tecnologías y Extracción de Datos
